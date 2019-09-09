@@ -1,0 +1,34 @@
+.services {
+    display: grid;
+    grid-template-columns: auto auto;
+    background: #f2f0ff;
+}
+
+.service-card > h3 {
+    color: indigo;
+    font-family: sans-serif;
+}
+
+.service-card {
+    margin: 40px;
+}
+
+.service-card > ul {
+    margin: 0;
+    padding: 0;
+}
+
+.service-card li {
+    list-style-type: none;
+    padding: 10px;
+    padding-left: 0;
+}
+
+.logo {
+    width: 40px;
+    height: 40px;
+    background: gold;
+    border-radius: 50%;
+}
+
+

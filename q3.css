@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: sans-serif;
+    background: #1d4b47;
+    color: #fff;
+}
+
+#mail-cta {
+    padding: 20px;
+}
+
+.mail-form > input {
+    padding: 16px;
+    border-radius: 4px;
+    border: 0;
+    width: 100%;
+    font-size: 1rem;
+    margin-bottom: 10px;
+}
+
+.mail-form > button {
+    background: gold;
+    color: #fff;
+    padding: 16px 14px;
+    border-radius: 4px;
+    border: 0;
+    font-size: 1rem;
+    width: 100%;
+}
